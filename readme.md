@@ -4,13 +4,21 @@ Geog 458 AD
 
 ---
 
-The map can be accessed at the URL: 
+The map can be accessed at the URL:  https://hxliaoay.github.io/maplayers/
 
-Screen Shots of the four images can be found at:
+The examined geographic area is the City of Seattle, and the of [Airbnb listings (up to 2018) is pulled from Kaggle](https://www.kaggle.com/datasets/airbnb/seattle).  Zoom levels of all maps are fixed at min: 10 and max: 14.
 
-![tile1](img/base.png)
-![tile2](img/airbnblistings.png)
-![tile3](img/grouped.png)
-![tile4](img/housing.png)
+Screenshots of the four tiles are followed in order and can be found below:
 
-The examined geographic area is the City of Seattle, and the of [Airbnb listings is pulled from Kaggle](https://www.kaggle.com/datasets/airbnb/seattle)
+- Basemap, with icons and text tweaked
+- thematic layer of Airbnb Listings up to 2018 in Seattle
+- Grouped layer of the first two layers
+- a reimagined industrial feel of Seattle
+
+This basemap is made from 
+![base](img/base.png)
+![airbnblistings](img/airbnblistings.png)
+![grouped](img/grouped.png)
+![housing](img/housing.png)
+
+
