@@ -15,7 +15,7 @@ Screenshots of the four tiles are followed in order and can be found below:
 - Grouped layer of the first two layers
 - a reimagined industrial feel of Seattle
 
-This basemap is made from 
+This basemap is made from OpenStreetMap
 ![base](img/base.png)
 ![airbnblistings](img/airbnblistings.png)
 ![grouped](img/grouped.png)
